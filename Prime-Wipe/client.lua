@@ -1,0 +1,1 @@
+print('BRAD WIPE | Script crée par Brad ')
