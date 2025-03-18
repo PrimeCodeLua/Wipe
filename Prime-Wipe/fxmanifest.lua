@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Brad'
+author 'Prime'
 description 'Script de wipe avec ESX et oxmysql'
 version '1.0.0'
 
