@@ -1,1 +1,1 @@
-print('BRAD WIPE | Script crée par Brad ')
+print('PRIME WIPE | Script crée par Prime ')
