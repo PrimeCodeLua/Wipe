@@ -1,6 +1,6 @@
 ESX = exports['es_extended']:getSharedObject()
 
-print('BRAD WIPE | Script crée par Brad ✅')
+print('PRIME WIPE | Script crée par Prime')
 
 RegisterCommand("wipe", function(source, args, rawCommand)
     local xPlayer = ESX.GetPlayerFromId(source)
